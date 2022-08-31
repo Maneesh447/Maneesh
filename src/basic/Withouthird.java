@@ -1,4 +1,4 @@
-package WithoutthirdVariable;
+package basic;
 
 public class Withouthird {
 	public static void main(String[] args) {

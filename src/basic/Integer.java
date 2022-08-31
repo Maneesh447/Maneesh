@@ -1,4 +1,4 @@
-package Integer;
+package basic;
 
 public class Integer {
 	public static void main(String[] args) {

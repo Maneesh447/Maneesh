@@ -1,4 +1,4 @@
-package Swapping;
+package basic;
 
 public class Swapping {
 	public static void main(String[] args) {
