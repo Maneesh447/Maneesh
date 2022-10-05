@@ -2,7 +2,7 @@ package basic;
 
 public class BingBang {
 	public static void main(String[] args) {
-		int n=7;
+		int n=5;
 		if(n%3==0 && n%5==0)
 		{
 			System.out.println("Bing Bang");
